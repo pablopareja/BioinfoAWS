@@ -12,5 +12,6 @@ package com.era7.bioinfo.bioinfoaws.util;
 public class InstanceTypes {
 
     public static final String MICRO_INSTANCE = "t1.micro";
+    public static final String M2_2XLARGE_INSTANCE = "m2.2xlarge";
 
 }
